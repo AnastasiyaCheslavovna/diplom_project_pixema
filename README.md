@@ -1,3 +1,18 @@
+Pixema- an analogue of film search, a service for choosing films. Here you can view detailed information about the action, register, change the subject. This app was developed as a graduation project and is updated regularly as I get better as a developer.
+this project was created using the
+CRA with Typescript
+Styled Components
+React Router Dom 
+React Hook Form
+React Select
+Redux Toolkit React-Redux
+Framer Motion
+Axios
+Firebase
+Gh Pages
+in order to see how the application works, you need to clone the repository and run it locally in your IDE, then enter the npm install command to install the npm packages. Done - you can "touch" my application
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
