@@ -1,13 +1,13 @@
 import { createGlobalStyle } from "styled-components";
+import { themeColors } from "./theme";
+import { Color } from "./colors";
+import { reset } from "./reset";
 
 export const GlobalStyles = createGlobalStyle`
-  *{
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-    border: none;
-  }
-  body {
-   font-family: 'Exo 2', 'san-serif';
-  }
+${reset}
+${themeColors}
+body {
+  font-family: "Exo 2", sans-serif;
+  background: ${Color.Black};
+}
 `;
