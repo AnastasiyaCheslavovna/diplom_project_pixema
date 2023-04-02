@@ -21,7 +21,8 @@ class MoviesAPI {
     "star",
     "man",
   ];
- private readonly getRandomWord = (words: string[]) => {
+
+  private readonly getRandomWord = (words: string[]) => {
     const random = (Math.random() * this.words.length) | 0;
     const randomWord = words[random];
     return randomWord;
@@ -93,4 +94,3 @@ class MoviesAPI {
 }
 
 export const moviesAPI = new MoviesAPI();
- 

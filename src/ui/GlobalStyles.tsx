@@ -7,7 +7,7 @@ export const GlobalStyles = createGlobalStyle`
 ${reset}
 ${themeColors}
 body {
-  font-family: "Exo 2", sans-serif;
+  font-family: "Exo 2", Arial, Helvetica, sans-serif;
   background: ${Color.Black};
 }
 `;

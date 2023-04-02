@@ -5,10 +5,10 @@ export type FirebaseErrorCode =
   | "auth/user-not-found";
 
 export enum FirebaseError {
-  EMAIL_ALREADY_IN_USE = "This email is used",
+  EMAIL_ALREADY_IN_USE = "This mail is already in use",
   WRONG_PASSWORD = "Invalid password",
   NOT_FOUND = "User not found",
-  UNKNOWN_ERROR = "Unknown error",
+  UNKNOWN_ERROR = "Unknown error, reload page",
 }
 
 const getFirebaseMessage = (code: FirebaseErrorCode): FirebaseError => {

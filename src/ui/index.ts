@@ -1,5 +1,6 @@
-import { Colors } from "./colors";
+import { Color } from "./colors";
 import { GlobalStyles } from "./GlobalStyles";
-import { Media } from "./media";
+import { reset } from "./reset";
+import { themeColors } from "./theme";
 
-export { GlobalStyles, Colors, Media };
+export { Color, GlobalStyles, reset, themeColors };
