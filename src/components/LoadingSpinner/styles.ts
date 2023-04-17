@@ -74,4 +74,3 @@ export const Element = styled.span`
     }
   }
 `;
-

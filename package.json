@@ -1,7 +1,6 @@
 {
   "name": "diplom_project_pixema",
   "version": "0.1.0",
-  "homepage": "https://anastasiyacheslavovna.github.io/diplom_project_pixema/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.5",
@@ -30,14 +29,12 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint": "eslint -c .eslintrc --ext .ts,.tsx .",
-
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [
@@ -54,7 +51,6 @@
   "devDependencies": {
     "@types/styled-components": "^5.1.26",
     "gh-pages": "^4.0.0",
-    "gh-pages-deploy": "^0.5.1",
     "styled-components": "^5.3.5"
   },
   "description": "<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->",
