@@ -114,8 +114,8 @@ export const SignUp = ({ toggle }: IProps) => {
                 message: "Password must contain at least 6 characters",
               },
               pattern: {
-                value: /(?=.*\d)(?=.*[a-z]).{6,}/,
-                message: "Password must contain at least 6 or more characters",
+                value: /(?=.*[0-9])/,
+                message: "Password must contain at least 6  characters",
               },
             }}
             render={({ field: { onChange, value } }) => (
