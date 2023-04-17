@@ -57,4 +57,21 @@ export const Element = styled.span`
     right: -8px;
     box-shadow: 0 0 20px ${Color.Primary};
   }
+  @keyframes animateC {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  @keyframes animate {
+    0% {
+      transform: rotate(45deg);
+    }
+    100% {
+      transform: rotate(405deg);
+    }
+  }
 `;
+
