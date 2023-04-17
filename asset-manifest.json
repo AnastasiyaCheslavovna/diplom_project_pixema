@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/AnastasiyaCheslavovna/diplom_project_pixema/static/css/main.d92f38f3.css",
-    "main.js": "/AnastasiyaCheslavovna/diplom_project_pixema/static/js/main.257f6aa0.js",
-    "static/media/background.png": "/AnastasiyaCheslavovna/diplom_project_pixema/static/media/background.59b7e78558daf9fb568b.png",
-    "static/media/not-found.jpg": "/AnastasiyaCheslavovna/diplom_project_pixema/static/media/not-found.ce293654fc5b055593cf.jpg",
-    "static/media/not-found-image.jpg": "/AnastasiyaCheslavovna/diplom_project_pixema/static/media/not-found-image.7fd9ee7ab55016a5a7f1.jpg",
-    "static/media/favorites-empty.svg": "/AnastasiyaCheslavovna/diplom_project_pixema/static/media/favorites-empty.d675174e548f560a43b95ccb24b4e1c5.svg",
-    "static/media/logo-light.svg": "/AnastasiyaCheslavovna/diplom_project_pixema/static/media/logo-light.22981b9ec8b862428f9a0d7bad09443a.svg",
-    "static/media/logo.svg": "/AnastasiyaCheslavovna/diplom_project_pixema/static/media/logo.ef69f378f7796fa43e7162952fc3af4f.svg",
-    "static/media/settings.svg": "/AnastasiyaCheslavovna/diplom_project_pixema/static/media/settings.55ebef72c725859d136b98409ea4a912.svg",
-    "static/media/burger.svg": "/AnastasiyaCheslavovna/diplom_project_pixema/static/media/burger.3b269593798b06816f1d80c0e142dcec.svg",
-    "index.html": "/AnastasiyaCheslavovna/diplom_project_pixema/index.html",
-    "static/media/trends.svg": "/AnastasiyaCheslavovna/diplom_project_pixema/static/media/trends.dcbc6e281c93b2e56a7adbf4b08149bd.svg",
-    "static/media/home.svg": "/AnastasiyaCheslavovna/diplom_project_pixema/static/media/home.516650175c6a9d78262bf46f3727c5ef.svg",
-    "static/media/close-cross.svg": "/AnastasiyaCheslavovna/diplom_project_pixema/static/media/close-cross.7ae1d05dc7dfcb3467ede1ef3fc77e0e.svg",
-    "static/media/favorites.svg": "/AnastasiyaCheslavovna/diplom_project_pixema/static/media/favorites.d40145d7bb12d981caad1d2191d3f0a4.svg",
-    "static/media/right-arrow.svg": "/AnastasiyaCheslavovna/diplom_project_pixema/static/media/right-arrow.c9059137ab3d20e1ce3c199e3440f2e7.svg",
-    "static/media/left-arrow.svg": "/AnastasiyaCheslavovna/diplom_project_pixema/static/media/left-arrow.091780705ad459f6933ad28dbfcb7ed4.svg",
-    "static/media/search.svg": "/AnastasiyaCheslavovna/diplom_project_pixema/static/media/search.bf5cb80deddb4125c2cf016a5a46143f.svg",
-    "main.d92f38f3.css.map": "/AnastasiyaCheslavovna/diplom_project_pixema/static/css/main.d92f38f3.css.map",
-    "main.257f6aa0.js.map": "/AnastasiyaCheslavovna/diplom_project_pixema/static/js/main.257f6aa0.js.map"
+    "main.css": "/diplom_project_pixema/static/css/main.d92f38f3.css",
+    "main.js": "/diplom_project_pixema/static/js/main.f9562449.js",
+    "static/media/background.png": "/diplom_project_pixema/static/media/background.59b7e78558daf9fb568b.png",
+    "static/media/not-found.jpg": "/diplom_project_pixema/static/media/not-found.ce293654fc5b055593cf.jpg",
+    "static/media/not-found-image.jpg": "/diplom_project_pixema/static/media/not-found-image.7fd9ee7ab55016a5a7f1.jpg",
+    "static/media/favorites-empty.svg": "/diplom_project_pixema/static/media/favorites-empty.d675174e548f560a43b95ccb24b4e1c5.svg",
+    "static/media/logo-light.svg": "/diplom_project_pixema/static/media/logo-light.22981b9ec8b862428f9a0d7bad09443a.svg",
+    "static/media/logo.svg": "/diplom_project_pixema/static/media/logo.ef69f378f7796fa43e7162952fc3af4f.svg",
+    "static/media/settings.svg": "/diplom_project_pixema/static/media/settings.55ebef72c725859d136b98409ea4a912.svg",
+    "static/media/burger.svg": "/diplom_project_pixema/static/media/burger.3b269593798b06816f1d80c0e142dcec.svg",
+    "index.html": "/diplom_project_pixema/index.html",
+    "static/media/trends.svg": "/diplom_project_pixema/static/media/trends.dcbc6e281c93b2e56a7adbf4b08149bd.svg",
+    "static/media/home.svg": "/diplom_project_pixema/static/media/home.516650175c6a9d78262bf46f3727c5ef.svg",
+    "static/media/close-cross.svg": "/diplom_project_pixema/static/media/close-cross.7ae1d05dc7dfcb3467ede1ef3fc77e0e.svg",
+    "static/media/favorites.svg": "/diplom_project_pixema/static/media/favorites.d40145d7bb12d981caad1d2191d3f0a4.svg",
+    "static/media/right-arrow.svg": "/diplom_project_pixema/static/media/right-arrow.c9059137ab3d20e1ce3c199e3440f2e7.svg",
+    "static/media/left-arrow.svg": "/diplom_project_pixema/static/media/left-arrow.091780705ad459f6933ad28dbfcb7ed4.svg",
+    "static/media/search.svg": "/diplom_project_pixema/static/media/search.bf5cb80deddb4125c2cf016a5a46143f.svg",
+    "main.d92f38f3.css.map": "/diplom_project_pixema/static/css/main.d92f38f3.css.map",
+    "main.f9562449.js.map": "/diplom_project_pixema/static/js/main.f9562449.js.map"
   },
   "entrypoints": [
     "static/css/main.d92f38f3.css",
-    "static/js/main.257f6aa0.js"
+    "static/js/main.f9562449.js"
   ]
 }
